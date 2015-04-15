@@ -14,4 +14,6 @@ angular.module('angularApp')
       'AngularJS',
       'Karma'
     ];
+    $scope.repeatData = ["1", "4", "5", "6"];
+    $scope.statusList = ["incorrect", "wrong"];
   });
